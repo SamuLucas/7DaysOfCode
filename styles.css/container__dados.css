@@ -1,0 +1,28 @@
+.container__dados{
+    display: flex;
+    margin: 8em;
+   
+   
+}
+
+.container__titulo-dados{
+    color: var(--vermelho);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.container__subtitulo-dados{
+   color: var(--azul-escuro); 
+   font-size: 18px;
+   font-weight: 600;
+   padding: 0.5em 0 0.5em 0;
+}
+
+.container__texto-dados{
+    color: var(--cinza);   
+}
+
+div{
+    margin: 0 0.5em;
+    
+}

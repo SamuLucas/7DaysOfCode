@@ -1,0 +1,32 @@
+@import url("styles.css/cabecalho.css");
+@import url("styles.css/container__apresentação.css");
+@import url("styles.css/container__dados.css");
+@import url("styles.css/container__talentos.css");
+@import url("styles.css/container__talentos-vagas.css");
+@import url("styles.css/container__talentos-colaboradores.css");
+@import url("styles.css/footer.css");
+
+:root{
+  --cinza-escuro: #3A404E; 
+  --Cinza: #667085;
+  --branco: #FFFFFF;
+  --vermelho: #8E2424;
+  --azul-escuro: #101828;
+  --branco-footer: #F9FAFB;
+  --fonte-principal: "Inter";
+  --cor-secundária: #DC143C;
+  --background-talento-titulo: #E5E5E5;
+  --background-colaboradores: rgba(195,25,25,0.04);
+  --borda-vagas: #EAECF0;
+  --borda-email: #D0D5DD;
+  --cinza-copyrigth: #98A2B3;
+}
+
+body{
+  font-size: 16px;
+  font-family: var(--fonte-principal);
+  font-weight: 400;
+}
+
+
+

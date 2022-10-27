@@ -1,0 +1,35 @@
+.container__talentos-vagas{
+    margin: 0 23em 0 23em;
+}
+.container__vagas-itens{
+    padding: 2em;
+    margin: 2em;
+    border: medium solid var(--borda-vagas);
+    border-radius: 25px ;
+}
+
+
+.container__vagas-titulo{
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--azul-escuro);
+}
+
+.container__vagas-item{
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--azul-escuro);
+    
+}
+
+.container__vagas-texto{
+    color: var(--cinza);
+    font-weight: 500;
+    padding-top: 1.5em;
+}
+
+.container__vagas-link{
+    text-decoration: none;
+    color: inherit;
+    
+}

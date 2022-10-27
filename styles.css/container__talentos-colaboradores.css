@@ -1,0 +1,51 @@
+.container__talentos-colaboradores{
+    text-align: center;
+    margin: 4em 0 6em 10em ;
+    padding: auto;
+    width: 75%;
+    height: 57vh;
+    background-color: var(--background-colaboradores);
+    
+}
+
+.container__paragrafo{
+    color: var(--vermelho);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.container__titulo-principal{
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--azul-escuro);
+    padding: 0.5em;
+}
+
+
+.imagem__secao-colaboradores{
+    margin-top: 2em;
+}
+
+.container__texto-nome{
+    margin: 1em 0 0.5em 0;
+    color: var(--azul-escuro);
+    font-weight: 600;
+}
+
+.container__texto-profissao{
+    color: var(--cinza);
+    font-size: 14px;
+    
+}
+
+.colaboradores{
+    font-size: 14px;
+    padding-top: 5em;
+}
+
+.container__colaboradores{
+    margin: 0.8em 3.5em 6em 3.5em;
+    
+    background-color: var(--branco);
+    
+}

@@ -1,0 +1,24 @@
+.container__apresentacao{
+    text-align: center;
+    margin: 4em;
+}
+
+.container__paragrafo{
+    color: var(--vermelho);
+    font-weight: 600;
+    
+}
+
+.container__titulo-principal{
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--azul-escuro);
+    padding: 0.5em;
+}
+
+.container__texto-apresentacao{
+    font-size: 20px;
+    color: var(--cinza);
+    
+}
+
